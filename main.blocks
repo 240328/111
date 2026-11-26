@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="}lI1Kd*/m6($fW?hb2Xf" x="-6" y="-306"></block><block type="device_button_event" id="M1-s?bLLkmRdzGv$}0d3" x="345" y="-237"><field name="NAME">Button.A</field></block><block type="device_forever" id="{*L-+b^YQsv2g`gtZaqp" x="81" y="-140"></block><block type="bluetooth_on_data_received" id="g^*(g7=-x72Y]2yVqFJ^" x="0" y="0"><value name="delimiters"><shadow type="serial_delimiter_conv" id="~g/5i:KlQ8Tn+/sbl;;l"><field name="del">Delimiters.NewLine</field></shadow></value><statement name="HANDLER"><block type="device_show_leds" id="bfcHFxXCQM2*qN*~-F--"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . # 
+        . # . # . 
+        . . # . .
+        `</field></block></statement></block></xml>
